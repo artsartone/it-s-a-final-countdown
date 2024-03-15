@@ -5,7 +5,6 @@ from .pages.basket_page import BasketPage
 import time
 import pytest
 
-# Первый опыт. Не судите строго :)
 
 
 @pytest.mark.login_guest
